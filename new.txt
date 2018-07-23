@@ -1,2 +1,3 @@
 this is a new txtfile
 mein name ist dingkai,hallo
+my name is dingkai
